@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "304292964280",
+    "project_id": "dodoma-9b465",
+    "storage_bucket": "dodoma-9b465.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304292964280:android:314198e048e846e212914d",
+        "android_client_info": {
+          "package_name": "dodoma.vunderkind.media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304292964280-6h3lsns1n0ej9ub7bk3paeavjnvc9t0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo2iQ745fuHqS_5T_bgGWbwk6LyElQIUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304292964280-6h3lsns1n0ej9ub7bk3paeavjnvc9t0q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "304292964280-6okoq1m87bkfr5nf8cjnu52mdh4t9dmd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "denis.degtyarenko.FoodLike"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

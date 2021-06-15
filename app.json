@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "доДома",
+    "slug": "doDoma",
+    "platforms": [
+      "android"
+    ],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "dodoma.vunderkind.media",
+      "permissions": [
+        "CAMERA",
+        "WRITE_EXTERNAL_STORAGE",
+        "CAMERA_ROLL"
+      ],
+      "versionCode": 2,
+      "googleServicesFile": "./google-services.json",
+      "useNextNotificationsApi": true,
+      "softwareKeyboardLayoutMode": "pan"
+    }
+  }
+}
